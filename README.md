@@ -1,8 +1,8 @@
 ![Header Image](https://github.com/user-attachments/assets/657233d4-4ea4-4300-a095-30b273524462)
 
-<h1 style="font-family: Georgia, serif; text-align: center; color: #2c3e50;">Abhijit Patil</h1>
+<h1 style="font-family: Georgia, serif; text-align: center;font-size: 32px; color: #2c3e50;">Abhijit Patil</h1>
 
-<p style="font-family: 'Courier New', monospace; text-align: center; font-size: 26px; color: #34495e;">
+<p style="font-family: 'Courier New', monospace; text-align: center; font-size: 16px; color: #34495e;">
 Welcome to my personal space! This is where I keep it simple and share things I love, from books to movies, and how you can reach me.
 </p>
 
